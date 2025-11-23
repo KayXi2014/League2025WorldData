@@ -1,0 +1,82 @@
+============================================================
+Champion Archetype Clustering by in-game stats(All Positions)
+============================================================
+
+=== CLUSTER 0 (2 champions) ===
+=== Hypercarry ADC (outliers) ===
+Champions: Jinx(ADC), Zeri(ADC)
+
+Key characteristics:
+  K/D/A: 8.0/1.0/9.5
+  Kill Participation: 85.0%
+  Damage%: 28.9%
+  Gold%: 26.1%
+  CS per Minute: 8.8
+  First 10min Gold/XP/CS diff: -54 / -920 / -18
+
+=== CLUSTER 1 (46 champions) ===
+=== Carries with weak Lane phase ===
+Champions: Aatrox(Top), Akali(Middle), Ambessa(Top), Anivia(Middle), Annie(Middle), Aurora(Middle), Aurora(Top), Azir(Middle), Camille(Top), Corki(ADC), Galio(Middle), Galio(Top), Gragas(Top), Ivern(Jungle), Jarvan IV(Jungle), 
+Jax(Top), Jayce(Top), Jhin(ADC), K'Sante(Top), Kassadin(Middle), Kled(Top), Maokai(Jungle), Mordekaiser(Top), Naafiri(Jungle), Nocturne(Jungle), Ornn(Top), Pantheon(Jungle), Poppy(Jungle), Poppy(Top), Rek'Sai(Top), Rumble(Top), 
+Sejuani(Jungle), Senna(ADC), Sion(Top), Sivir(ADC), Skarner(Jungle), Swain(Middle), Sylas(Middle), Syndra(Middle), Taliyah(Middle), Trundle(Jungle), Vi(Jungle), Viego(Jungle), Wukong(Jungle), Xin Zhao(Jungle), Yorick(Top)
+
+Key characteristics:
+  K/D/A: 2.8/3.1/5.9
+  Kill Participation: 65.8%
+  Damage%: 21.3%
+  Gold%: 21.4%
+  CS per Minute: 7.5
+  First 10min Gold/XP/CS diff: -74 / -94 / -2
+
+=== CLUSTER 2 (21 champions) ===
+=== Support Champions ===
+Champions: Alistar(Support), Bard(Support), Blitzcrank(Support), Braum(Support), Elise(Support), Karma(Support), Leona(Support), Lulu(Support), Morgana(Support), Nami(Support), Nautilus(Support), Neeko(Support), 
+Pantheon(Support), Poppy(Support), Rakan(Support), Rell(Support), Renata Glasc(Support), Seraphine(Support), Soraka(Support), Tahm Kench(Support), Thresh(Support)
+
+Key characteristics:
+  K/D/A: 0.5/3.6/9.2
+  Kill Participation: 75.5%
+  Damage%: 8.7%
+  Gold%: 9.7%
+  CS per Minute: 1.0
+  First 10min Gold/XP/CS diff: -7 / -57 / -0
+
+=== CLUSTER 3 (33 champions) ===
+=== Carries with winning lane ===
+Champions: Ahri(Middle), Ashe(ADC), Caitlyn(ADC), Cassiopeia(Middle), Dr. Mundo(Jungle), Draven(ADC), Ezreal(ADC), Gnar(Top), Gwen(Top), Hwei(Middle), Kai'Sa(ADC), Kalista(ADC), LeBlanc(Middle), Lucian(ADC), Mel(Middle), Miss Fortune(ADC), 
+Nidalee(Jungle), Orianna(Middle), Qiyana(Jungle), Renekton(Top), Ryze(Middle), Smolder(ADC), Smolder(Middle), Varus(ADC), Vayne(ADC), Viktor(Middle), Xayah(ADC), Yone(Middle), Yunara(ADC), Zed(Jungle), Ziggs(ADC), Ziggs(Middle), Zoe(Middle)
+
+Key characteristics:
+  K/D/A: 4.7/2.6/6.7
+  Kill Participation: 70.2%
+  Damage%: 26.9%
+  Gold%: 24.6%
+  CS per Minute: 8.7
+  First 10min Gold/XP/CS diff: 202 / 196 / 5
+
+
+============================================================
+Meta Tier Classification
+============================================================
+
+Meta Tier Distribution:
+Meta_Tier
+A    14
+B    33
+C    48
+S     7
+
+S-Tier Champions (7):
+Azir(Middle), Neeko(Support), Orianna(Middle), Poppy(Support), Poppy(Top), Sion(Top), Yunara(ADC)
+
+A-Tier Champions (14):
+Alistar(Support), Ambessa(Top), Bard(Support), Braum(Support), Corki(ADC), Ezreal(ADC), Jarvan IV(Jungle), Poppy(Jungle), Qiyana(Jungle), Rumble(Top), Taliyah(Middle), Trundle(Jungle), Wukong(Jungle), Xin Zhao(Jungle)
+
+B-Tier Champions (33):
+Akali(Middle), Aurora(Middle), Aurora(Top), Caitlyn(ADC), Cassiopeia(Middle), Draven(ADC), Galio(Middle), Galio(Top), Jax(Top), Jhin(ADC), K'Sante(Top), Kai'Sa(ADC), Karma(Support), LeBlanc(Middle), Leona(Support), Lucian(ADC), 
+Nautilus(Support), Ornn(Top), Pantheon(Jungle), Rakan(Support), Rek'Sai(Top), Rell(Support), Renata Glasc(Support), Renekton(Top), Ryze(Middle), Sivir(ADC), Varus(ADC), Vi(Jungle), Viktor(Middle), Xayah(ADC), Yone(Middle), Ziggs(ADC), Ziggs(Middle)
+
+C-Tier Champions (48):
+Aatrox(Top), Ahri(Middle), Anivia(Middle), Annie(Middle), Ashe(ADC), Blitzcrank(Support), Camille(Top), Dr. Mundo(Jungle), Elise(Support), Gnar(Top), Gragas(Top), Gwen(Top), Hwei(Middle), Ivern(Jungle), Jayce(Top), Jinx(ADC), Kalista(ADC), 
+Kassadin(Middle), Kled(Top), Lulu(Support), Maokai(Jungle), Mel(Middle), Miss Fortune(ADC), Mordekaiser(Top), Morgana(Support), Naafiri(Jungle), Nami(Support), Nidalee(Jungle), Nocturne(Jungle), Pantheon(Support), Sejuani(Jungle), Senna(ADC), 
+Seraphine(Support), Skarner(Jungle), Smolder(ADC), Smolder(Middle), Soraka(Support), Swain(Middle), Sylas(Middle), Syndra(Middle), Tahm Kench(Support), Thresh(Support), Vayne(ADC), Viego(Jungle), Yorick(Top), Zed(Jungle), Zeri(ADC), Zoe(Middle)
