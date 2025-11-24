@@ -8,8 +8,8 @@ A curated dataset and tools for exploring League of Legends World Championship (
 - notebooks/             — Jupyter notebooks with example analyses and visualizations
 - README.md              — this file
 
-champion_study.ipynb contains Clustering Analysis for all champions used in World main stage
-match_study.ipynb contains Statistical Analysis for champion synergy and counter
+- champion_study.ipynb contains Clustering Analysis for all champions used in World main stage
+- match_study.ipynb contains Statistical Analysis for champion synergy and counter
 
 ## Data description
 Sources
