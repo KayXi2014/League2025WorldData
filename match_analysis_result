@@ -1,0 +1,148 @@
+
+================================================================================
+INDIVIDUAL CHAMPION PERFORMANCE
+================================================================================
+
+🏆 TOP 10 MOST CONTESTED CHAMPIONS (Picks + Bans)
+--------------------------------------------------------------------------------
+Champion Position  Picks  Win_Rate  Pick_Rate  Ban_Rate  Presence
+  Yunara      ADC     15      0.67      0.188     0.700        71
+    Azir   Middle     14      0.50      0.175     0.637        65
+ Orianna   Middle     19      0.58      0.238     0.563        64
+   Neeko  Support     19      0.63      0.238     0.450        55
+    Sion      Top     21      0.67      0.263     0.388        52
+   Poppy  Support      8      0.88      0.100     0.538        51
+ Alistar  Support     24      0.54      0.300     0.313        49
+  Wukong   Jungle     21      0.57      0.263     0.350        49
+   Poppy      Top      3      0.67      0.038     0.538        46
+   Poppy   Jungle      2      0.50      0.025     0.538        45
+
+⭐ TOP 10 HIGHEST WIN RATE CHAMPIONS (Min 5 picks)
+--------------------------------------------------------------------------------
+ Champion Position  Picks  Win_Rate
+Dr. Mundo   Jungle      5      1.00
+    Poppy  Support      8      0.88
+     Yone   Middle      5      0.80
+    Varus      ADC     13      0.77
+   Yunara      ADC     15      0.67
+     Sion      Top     21      0.67
+    Galio   Middle      9      0.67
+     Ornn      Top     11      0.64
+    Neeko  Support     19      0.63
+ Xin Zhao   Jungle     28      0.61
+
+🚫 TOP 10 MOST BANNED CHAMPIONS
+--------------------------------------------------------------------------------
+Champion Position  Ban_Rate  Pick_Rate  Win_Rate
+  Yunara      ADC     0.700      0.188      0.67
+    Azir   Middle     0.637      0.175      0.50
+ Orianna   Middle     0.563      0.238      0.58
+   Poppy  Support     0.538      0.100      0.88
+   Poppy      Top     0.538      0.038      0.67
+   Poppy   Jungle     0.538      0.025      0.50
+   Neeko  Support     0.450      0.238      0.63
+    Sion      Top     0.388      0.263      0.67
+  Wukong   Jungle     0.350      0.263      0.57
+  Qiyana   Jungle     0.350      0.188      0.47
+
+
+================================================================================
+CHAMPION SYNERGY MATRIX
+================================================================================
+
+🔗 TOP ADC-SUPPORT SYNERGIES (Min 2 games)
+--------------------------------------------------------------------------------
+Corki           + Poppy           | 3 games | 100.0% WR
+Ezreal          + Neeko           | 2 games | 100.0% WR
+Corki           + Alistar         | 3 games | 100.0% WR
+Varus           + Braum           | 2 games | 100.0% WR
+Varus           + Poppy           | 2 games | 100.0% WR
+Varus           + Rakan           | 2 games | 100.0% WR
+Kalista         + Renata Glasc    | 2 games | 100.0% WR
+Yunara          + Bard            | 2 games | 100.0% WR
+Yunara          + Alistar         | 3 games | 100.0% WR
+Corki           + Leona           | 4 games | 75.0% WR
+Yunara          + Neeko           | 3 games | 66.7% WR
+Kai'Sa          + Neeko           | 5 games | 60.0% WR
+Caitlyn         + Neeko           | 5 games | 60.0% WR
+Caitlyn         + Alistar         | 2 games | 50.0% WR
+Sivir           + Leona           | 2 games | 50.0% WR
+
+🔗 TOP JUNGLE-MID SYNERGIES (Min 2 games)
+--------------------------------------------------------------------------------
+Jarvan IV       + Yone            | 3 games | 100.0% WR
+Xin Zhao        + LeBlanc         | 2 games | 100.0% WR
+Xin Zhao        + Taliyah         | 4 games | 100.0% WR
+Wukong          + Galio           | 3 games | 66.7% WR
+Wukong          + Aurora          | 3 games | 66.7% WR
+Trundle         + Orianna         | 3 games | 66.7% WR
+Wukong          + Taliyah         | 5 games | 60.0% WR
+Jarvan IV       + Orianna         | 5 games | 60.0% WR
+Xin Zhao        + Orianna         | 7 games | 57.1% WR
+Xin Zhao        + Azir            | 4 games | 50.0% WR
+Pantheon        + Cassiopeia      | 2 games | 50.0% WR
+Pantheon        + Taliyah         | 2 games | 50.0% WR
+Jarvan IV       + Galio           | 4 games | 50.0% WR
+Xin Zhao        + Anivia          | 2 games | 50.0% WR
+Naafiri         + Orianna         | 2 games | 50.0% WR
+
+================================================================================
+COUNTER MATCHUP ANALYSIS
+================================================================================
+
+⚔️ TOP TOP LANE MATCHUPS (Min 2 games)
+--------------------------------------------------------------------------------
+Champion        vs                 | Games   | Win Rate
+Poppy           vs K'Sante         | 2 games | 100.0% WR
+Rek'Sai         vs Renekton        | 2 games | 100.0% WR
+Rumble          vs K'Sante         | 5 games | 100.0% WR
+Sion            vs K'Sante         | 2 games | 100.0% WR
+Sion            vs Ambessa         | 5 games | 100.0% WR
+Rumble          vs Sion            | 2 games | 100.0% WR
+Galio           vs Rumble          | 3 games | 100.0% WR
+Ambessa         vs Rumble          | 5 games | 80.0% WR
+K'Sante         vs Mordekaiser     | 3 games | 66.7% WR
+Rek'Sai         vs K'Sante         | 3 games | 66.7% WR
+Ornn            vs Rumble          | 5 games | 60.0% WR
+Renekton        vs K'Sante         | 5 games | 60.0% WR
+Sion            vs Rek'Sai         | 7 games | 57.1% WR
+Aatrox          vs Renekton        | 2 games | 50.0% WR
+Ambessa         vs Rek'Sai         | 2 games | 50.0% WR
+
+⚔️ TOP JUNGLE LANE MATCHUPS (Min 2 games)
+--------------------------------------------------------------------------------
+Champion        vs                 | Games   | Win Rate
+Xin Zhao        vs Pantheon        | 2 games | 100.0% WR
+Trundle         vs Qiyana          | 2 games | 100.0% WR
+Dr. Mundo       vs Sejuani         | 2 games | 100.0% WR
+Wukong          vs Maokai          | 2 games | 100.0% WR
+Qiyana          vs Vi              | 2 games | 100.0% WR
+Wukong          vs Jarvan IV       | 4 games | 75.0% WR
+Jarvan IV       vs Pantheon        | 4 games | 75.0% WR
+Jarvan IV       vs Trundle         | 4 games | 75.0% WR
+Xin Zhao        vs Wukong          | 10 games | 70.0% WR
+Xin Zhao        vs Vi              | 3 games | 66.7% WR
+Naafiri         vs Vi              | 3 games | 66.7% WR
+Trundle         vs Vi              | 3 games | 66.7% WR
+Trundle         vs Xin Zhao        | 3 games | 66.7% WR
+Pantheon        vs Qiyana          | 3 games | 66.7% WR
+Qiyana          vs Xin Zhao        | 5 games | 60.0% WR
+
+⚔️ TOP MID LANE MATCHUPS (Min 2 games)
+--------------------------------------------------------------------------------
+Champion        vs                 | Games   | Win Rate
+Orianna         vs Aurora          | 2 games | 100.0% WR
+LeBlanc         vs Taliyah         | 3 games | 100.0% WR
+Galio           vs Ryze            | 2 games | 100.0% WR
+Aurora          vs Ryze            | 2 games | 100.0% WR
+Aurora          vs Annie           | 3 games | 100.0% WR
+Azir            vs Aurora          | 2 games | 100.0% WR
+Orianna         vs Galio           | 3 games | 66.7% WR
+Azir            vs Taliyah         | 3 games | 66.7% WR
+Taliyah         vs Ryze            | 9 games | 66.7% WR
+Orianna         vs Akali           | 5 games | 60.0% WR
+Orianna         vs Azir            | 7 games | 57.1% WR
+Aurora          vs Taliyah         | 4 games | 50.0% WR
+Syndra          vs Viktor          | 2 games | 50.0% WR
+Anivia          vs Cassiopeia      | 2 games | 50.0% WR
+Cassiopeia      vs Anivia          | 2 games | 50.0% WR
