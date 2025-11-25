@@ -1,0 +1,37 @@
+Champion,vs,Games,Win_Rate
+Xin Zhao,Pantheon,2,1.0
+Trundle,Qiyana,2,1.0
+Dr. Mundo,Sejuani,2,1.0
+Wukong,Maokai,2,1.0
+Qiyana,Vi,2,1.0
+Wukong,Jarvan IV,4,0.75
+Jarvan IV,Pantheon,4,0.75
+Jarvan IV,Trundle,4,0.75
+Xin Zhao,Wukong,10,0.7
+Xin Zhao,Vi,3,0.6666666666666666
+Naafiri,Vi,3,0.6666666666666666
+Trundle,Vi,3,0.6666666666666666
+Trundle,Xin Zhao,3,0.6666666666666666
+Pantheon,Qiyana,3,0.6666666666666666
+Qiyana,Xin Zhao,5,0.6
+Xin Zhao,Jarvan IV,5,0.6
+Qiyana,Wukong,2,0.5
+Jarvan IV,Vi,4,0.5
+Vi,Jarvan IV,4,0.5
+Wukong,Qiyana,2,0.5
+Xin Zhao,Qiyana,5,0.4
+Jarvan IV,Xin Zhao,5,0.4
+Vi,Naafiri,3,0.3333333333333333
+Vi,Xin Zhao,3,0.3333333333333333
+Vi,Trundle,3,0.3333333333333333
+Xin Zhao,Trundle,3,0.3333333333333333
+Qiyana,Pantheon,3,0.3333333333333333
+Wukong,Xin Zhao,10,0.3
+Trundle,Jarvan IV,4,0.25
+Pantheon,Jarvan IV,4,0.25
+Jarvan IV,Wukong,4,0.25
+Qiyana,Trundle,2,0.0
+Sejuani,Dr. Mundo,2,0.0
+Vi,Qiyana,2,0.0
+Pantheon,Xin Zhao,2,0.0
+Maokai,Wukong,2,0.0
