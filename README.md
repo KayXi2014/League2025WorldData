@@ -10,6 +10,12 @@ A curated dataset and tools for exploring League of Legends World Championship (
   - processed
     - lol_matches_expanded
     - champion_clusters_analysis
+    - champ_synergy
+    - bot_synergy
+    - mid_jungle_synergy
+    - top_counters
+    - mid_counters
+    - jungle_counters
 - notebooks/             — Jupyter notebooks with example analyses and visualizations
   - champion_study.ipynb: contains Clustering Analysis for all champions used in World main stage
   - match_study.ipynb: contains Statistical Analysis for champion synergy and counter
